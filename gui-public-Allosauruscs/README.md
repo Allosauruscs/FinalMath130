@@ -3,7 +3,7 @@
 My final project is going to be Yu Gi Oh!
 Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriately.
 ## Final Project Description
-_Write your project description here_
+_It's pretty much Yu-Gu-Oh!_
 
 ## GUI Wireframe
 _Embed your wireframe image(s) here! Here is an example_
