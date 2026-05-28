@@ -3,7 +3,7 @@
 My final project is going to be Yu Gi Oh!
 Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriately.
 ## Final Project Description
-_Write your project description here_
+_Pretty much Yu-Gi-Oh!_
 
 ## GUI Wireframe
 _Embed your wireframe image(s) here! Here is an example_
@@ -11,6 +11,6 @@ _Embed your wireframe image(s) here! Here is an example_
 Video is encouraged but not neccessary.
 Add UML here
 ![YuGiOh UML](umlyugioh.png)
-JavaDoc - document every class, constructor, method, for  methods, you don't need to do the param and return parts. Main and Controller don't need to be documented. Anything in UML should be documented.
+JavaDoc
 ![YuGiOh GUI](wireframeyugioh22.webp)
 ![Silly cat]()
