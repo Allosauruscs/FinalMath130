@@ -11,6 +11,6 @@ _Embed your wireframe image(s) here! Here is an example_
 Video is encouraged but not neccessary.
 Add UML here
 ![YuGiOh UML](umlyugioh.png)
-JavaDoc - document every class, constructor, method, for  methods, you don't need to do the param and return parts. Main and Controller don't need to be documented. Anything in UML should be documented.
+JavaDoc
 ![YuGiOh GUI](wireframeyugioh22.webp)
 ![Silly cat]()
